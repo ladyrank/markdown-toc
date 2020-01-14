@@ -32,7 +32,7 @@
             var $p = $this.parent();
             var tag = (($p[0] && $p[0].tagName) || '').toLowerCase();
             var tagNum = (tag || '').replace(/h/gi, '');
-            var mLeft = tagNum * 15;
+            var mLeft = tagNum * 20;
 
             html += '<li style="margin-left: ' + mLeft + 'px;" class="c_toc_' + tag + '"><a href="' + $this.attr('href') + '">' + $p.text() + '</a></li>'
         });

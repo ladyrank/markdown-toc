@@ -7,7 +7,7 @@ Pls install it from [here](https://greasyfork.org/zh-CN/scripts/395126-generate-
 
 # Screenshot
 
-[img](./src/img/Xnip2020-01-14_18-13-54.jpg);
+![image](./src/img/Xnip2020-01-14_18-13-54.jpg);
 
 > Test below.
 

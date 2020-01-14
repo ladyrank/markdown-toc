@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Generate markdown files' table of contents or anchor links menu automatically
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Generate markdown files' table of contents or anchor links menu automatically, make markdown files easy to read
 // @author       ladyrank
 // @include      https://github.com/*
